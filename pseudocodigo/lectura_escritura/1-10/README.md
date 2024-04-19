@@ -22,23 +22,16 @@
 <h3>Area y perimetro de un rectangulo: </h3>
 <pre>
     <code>
-
-Algoritmo ejercicio_2
-
-	definir base, altura Como Real
-
-	Escribir "Ingresa la base:"
-	Leer base
-
-	Escribir "Ingresa la altura"
-	leer altura
-
-	escribir "el área de tu rectangulo es: ", base * altura
-	escribir "El perímetro de tu rectángulo es: ", base + altura * 2
-FinAlgoritmo
-
-
-</code>
+		Algoritmo ejercicio_2
+			definir base, altura Como Real
+			Escribir "Ingresa la base:"
+			Leer base
+			Escribir "Ingresa la altura"
+			leer altura
+			escribir "el área de tu rectangulo es: ", base * altura
+			escribir "El perímetro de tu rectángulo es: ", base + altura * 2
+		FinAlgoritmo
+	</code>
 </pre>
 <br>
 
