@@ -37,19 +37,19 @@
 
 
 <h2>Ejercicio 3  </h2>
-<h3>Promedio de Tres Números:: </h3>
+<h3>Promedio de Tres Números: </h3>
 <pre>
     <code>
-		Algoritmo ejercicio_3
-    		Definir numero1, numero2, numero3 Como real
-    		escribir "Ingrese el primer número"
-    		Leer numero1
-    		escribir "Ingrese el segundo número"
-    		Leer numero2
-    		escribir "Ingrese el tercer número"
-    		Leer numero3
-    		Escribir "El promedio de los tres números es: ", numero1 + numero2 + numero3 / 3
-		FinAlgoritmo
+			Algoritmo ejercicio_3
+    			Definir numero1, numero2, numero3 Como real
+    			escribir "Ingrese el primer número"
+    			Leer numero1
+    			escribir "Ingrese el segundo número"
+    			Leer numero2
+    			escribir "Ingrese el tercer número"
+    			Leer numero3
+    			Escribir "El promedio de los tres números es: ", numero1 + numero2 + numero3 / 3
+			FinAlgoritmo
 	</code>
 </pre>
 <br>
